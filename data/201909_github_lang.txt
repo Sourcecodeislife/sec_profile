@@ -1,4 +1,4 @@
-Python	29
+Python	30
 C	24
 JavaScript	16
 C++	16

@@ -7,6 +7,8 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 from collections import OrderedDict
+import shutil
+
 import matplotlib.pyplot as plt
 
 import matplotlib
@@ -200,14 +202,14 @@ def draw_table(so, source="weixin", top=100, year="2019"):
     :return:
     """
     if source == "weixin":
-        sql = "select nickname_english,weixin_no,title,url,count(*) as c from weixin where ts like '{year}%' and nickname_english != '' group by nickname_english order by ts desc limit {top} "
+        sql = "select nickname_english,weixin_no,title,url,count(*) as c from weixin where ts like '{year}%' and nickname_english != '' group by nickname_english order by ts desc  "
         header = ["nickname_english", "weixin_no", "title", "url"]
 
     elif source == "github_org":
         sql = "select github_id,title,url,org_url,org_profile,org_geo," \
               "org_repositories,org_people,org_projects," \
               "repo_lang,repo_star,repo_forks," \
-              "count(*) as c from github  where github_type=1 and ts like '{year}%' group by github_id order by repo_forks desc,org_repositories desc,org_projects desc limit {top} "
+              "count(*) as c from github  where github_type=1 and ts like '{year}%' group by github_id order by repo_forks desc,org_repositories desc,org_projects desc "
         header = ["github_id", "title", "url", "org_url", "org_profile", "org_geo", "org_repositories",
                   "org_people", "org_projects", "repo_lang", "repo_star", "repo_forks"]
 
@@ -216,22 +218,22 @@ def draw_table(so, source="weixin", top=100, year="2019"):
               "p_repositories,p_projects," \
               "p_stars,p_followers,p_following," \
               "repo_lang,repo_star,repo_forks ," \
-              "count(*) as c from github  where github_type=0 and ts like '{year}%' group by github_id order by p_followers desc limit {top}"
+              "count(*) as c from github  where github_type=0 and ts like '{year}%' group by github_id order by p_followers desc "
         header = ["github_id", "title", "url", "p_url", "p_profile", "p_loc", "p_company", "p_repositories",
                   "p_projects", "p_stars", "p_followers", "p_following", "repo_lang", "repo_star", "repo_forks "]
 
     elif source == "medium_xuanwu":
-        sql = "select title,url from xuanwu_today_detail where url like '%medium.com%' and ts like '{year}%' "
+        sql = "select title,url from xuanwu_today_detail where url like '%medium.com%' and ts like '{year}%' order by ts desc "
         header = ["title", "url"]
     elif source == "medium_secwiki":
-        sql = "select title,url from secwiki_today_detail where url like '%medium.com%' and ts like '{year}%' "
+        sql = "select title,url from secwiki_today_detail where url like '%medium.com%' and ts like '{year}%' order by ts desc "
         header = ["title", "url"]
 
     elif source == "zhihu_xuanwu":
-        sql = "select title,url from xuanwu_today_detail where url like '%zhihu.com%' and ts like '{year}%' "
+        sql = "select title,url from xuanwu_today_detail where url like '%zhihu.com%' and ts like '{year}%' order by ts desc "
         header = ["title", "url"]
     elif source == "zhihu_secwiki":
-        sql = "select title,url from secwiki_today_detail where url like '%zhihu.com%' and ts like '{year}%' "
+        sql = "select title,url from secwiki_today_detail where url like '%zhihu.com%' and ts like '{year}%' order by ts desc "
         header = ["title", "url"]
 
 
@@ -281,23 +283,22 @@ def markdown_table(rets):
     return markdown_rets
 
 
-def draw_readme(fpath=None):
+def draw_readme_item(year=None, fpath=None):
     """
 
+    :param year:
+    :param fpath:
     :return:
     """
 
-    if fpath is None:
-        fpath = "README.md"
-
     tables_rets = []
     so = SQLiteOper("data/scrap.db")
-    year = get_special_date(delta=0, format="%Y%m")
+    if year is None:
+        year = get_special_date(delta=0, format="%Y%m")
 
-    # year = '202002'
-    fpath_sp = 'README_%s.md' % year
+    if fpath is None:
+        fpath = 'README_%s.md' % year
     # update
-
     main_pie(year)
 
     # update weixin,github
@@ -321,72 +322,72 @@ def draw_readme(fpath=None):
                     tables_rets.append(markdown_ret)
                 tables_rets.append(os.linesep)
 
-    for fpath in [fpath_sp, fpath]:
+    with codecs.open(fpath, mode='wb') as fr:
+        fr.write('# [数据--所有](README_20.md)')
+        fr.write(os.linesep)
+        fr.write('# [数据--年度](README_{year_year}.md)'.format(year_year=year[0:4]))
+        fr.write(os.linesep)
+        fr.write('# %s 信息源与信息类型占比' % year)
+        fr.write(os.linesep)
+        fr.write('![{year}-信息源占比-secwiki](data/img/domain/{year}-信息源占比-secwiki.png)'.
+                 format(year=year))
+        fr.write(os.linesep)
+        fr.write(os.linesep)
+        fr.write('![{year}-信息源占比-xuanwu](data/img/domain/{year}-信息源占比-xuanwu.png)'.
+                 format(year=year))
+        fr.write(os.linesep)
+        fr.write(os.linesep)
+        # fr.write('![{year}-信息类型占比-secwiki](data/img/tag/{year}-信息类型占比-secwiki.png)'.
+        #        format(year=year))
+        fr.write(os.linesep)
+        fr.write(os.linesep)
+        fr.write('![{year}-信息类型占比-xuanwu](data/img/tag/{year}-信息类型占比-xuanwu.png)'.
+                 format(year=year))
+        fr.write(os.linesep)
+        fr.write(os.linesep)
+
+        fr.write('![{year}-最喜欢语言占比](data/img/language/{year}-最喜欢语言占比.png)'.format(year=year))
+        fr.write(os.linesep)
+        fr.write(os.linesep)
+
+        st = os.linesep.join(tables_rets)
+        fr.write(st)
+        fr.write(os.linesep)
+        fr.write(os.linesep)
+
+        fr.write('# 日更新程序')
+        fr.write(os.linesep)
+        fr.write('`python update_daily.py`')
+    return fpath
+
+
+def draw_readme(year=None):
+    """
+
+    :return:
+    """
+    if year is None:
+        year_month = get_special_date(delta=0, format="%Y%m")
+        year_year = get_special_date(delta=0, format="%Y")
+        year_all = str(year_year)[0:2]
+        for y in [year_month, year_year, year_all]:
+            fpath = draw_readme_item(year=y)
+            if len(str(y)) == 6:
+                fpath_month = fpath
+                fpath_default = "README.md"
+                shutil.copyfile(fpath_month, fpath_default)
+
+            print(fpath)
+
+
+    else:
+        # 绘制指定月份的消息
+        fpath = draw_readme_item(year=year)
         print(fpath)
-        with codecs.open(fpath, mode='wb') as fr:
-            fr.write("# [数据月报--202002](README_202002.md)")
-            fr.write(os.linesep)
-            fr.write("# [数据月报--202001](README_202001.md)")
-            fr.write(os.linesep)
-            fr.write("# [2019数据年报](README_YEAR_2019.md)")
-            fr.write(os.linesep)
-            fr.write("# [数据月报--2019-12月](README_12.md)")
-            fr.write(os.linesep)
-            fr.write("# [数据月报--2019-11月](README_11.md)")
-            fr.write(os.linesep)
-            fr.write("# [数据月报--2019-10月](README_10.md)")
-            fr.write(os.linesep)
-            fr.write("# [数据月报--2019-9月](README_9.md)")
-            fr.write(os.linesep)
-            fr.write("# [数据月报--2019-8月](README_8.md)")
-            fr.write(os.linesep)
-            fr.write("# [数据月报--2019-7月](README_7.md)")
-            fr.write(os.linesep)
-            fr.write("# [数据月报--2019-6月](README_6.md)")
-            fr.write(os.linesep)
-            fr.write("# [数据月报--2019-5月](README_5.md)")
-            fr.write(os.linesep)
-            fr.write("# [数据月报--2019-4月](README_4.md)")
-            fr.write(os.linesep)
-            fr.write("# [数据月报--2019-3月](README_3.md)")
-            fr.write(os.linesep)
-            fr.write("# [数据年报--2019-3月之前](README_YEAR.md)")
-            fr.write(os.linesep)
-            fr.write('# %s 信息源与信息类型占比' % year)
-            fr.write(os.linesep)
-            fr.write('![{year}-信息源占比-secwiki](data/img/domain/{year}-信息源占比-secwiki.png)'.
-                     format(year=year))
-            fr.write(os.linesep)
-            fr.write(os.linesep)
-            fr.write('![{year}-信息源占比-xuanwu](data/img/domain/{year}-信息源占比-xuanwu.png)'.
-                     format(year=year))
-            fr.write(os.linesep)
-            fr.write(os.linesep)
-            # fr.write('![{year}-信息类型占比-secwiki](data/img/tag/{year}-信息类型占比-secwiki.png)'.
-            #        format(year=year))
-            fr.write(os.linesep)
-            fr.write(os.linesep)
-            fr.write('![{year}-信息类型占比-xuanwu](data/img/tag/{year}-信息类型占比-xuanwu.png)'.
-                     format(year=year))
-            fr.write(os.linesep)
-            fr.write(os.linesep)
-
-            fr.write('![{year}-最喜欢语言占比](data/img/language/{year}-最喜欢语言占比.png)'.format(year=year))
-            fr.write(os.linesep)
-            fr.write(os.linesep)
-
-            st = os.linesep.join(tables_rets)
-            fr.write(st)
-            fr.write(os.linesep)
-            fr.write(os.linesep)
-
-            fr.write('# 日更新程序')
-            fr.write(os.linesep)
-            fr.write('`python update_daily.py`')
 
 
 if __name__ == "__main__":
     """
     """
-    fpath = "README.md"
-    draw_readme(fpath=fpath)
+
+    draw_readme()
