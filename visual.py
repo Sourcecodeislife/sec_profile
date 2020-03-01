@@ -227,6 +227,14 @@ def draw_table(so, source="weixin", top=100, year="2019"):
         sql = "select title,url from secwiki_today_detail where url like '%medium.com%' and ts like '{year}%' "
         header = ["title", "url"]
 
+    elif source == "zhihu_xuanwu":
+        sql = "select title,url from xuanwu_today_detail where url like '%zhihu.com%' and ts like '{year}%' "
+        header = ["title", "url"]
+    elif source == "zhihu_secwiki":
+        sql = "select title,url from secwiki_today_detail where url like '%zhihu.com%' and ts like '{year}%' "
+        header = ["title", "url"]
+
+
 
     else:
         return
@@ -286,14 +294,15 @@ def draw_readme(fpath=None):
     so = SQLiteOper("data/scrap.db")
     year = get_special_date(delta=0, format="%Y%m")
 
-    #year = '202002'
-    #fpath = 'README_%s.md' %year
+    # year = '202002'
+    fpath_sp = 'README_%s.md' % year
     # update
 
     main_pie(year)
 
     # update weixin,github
-    sources = ["weixin", "github_org", "github_private", "medium_xuanwu", "medium_secwiki"]
+    sources = ["weixin", "github_org", "github_private", "medium_xuanwu", "medium_secwiki",
+               "zhihu_xuanwu", "zhihu_secwiki"]
 
     d = {
         "weixin": "微信公众号",
@@ -312,66 +321,68 @@ def draw_readme(fpath=None):
                     tables_rets.append(markdown_ret)
                 tables_rets.append(os.linesep)
 
-    with codecs.open(fpath, mode='wb') as fr:
-        fr.write("# [数据月报--202002](README_202002.md)")
-        fr.write(os.linesep)
-        fr.write("# [数据月报--202001](README_202001.md)")
-        fr.write(os.linesep)
-        fr.write("# [2019数据年报](README_YEAR_2019.md)")
-        fr.write(os.linesep)
-        fr.write("# [数据月报--2019-12月](README_12.md)")
-        fr.write(os.linesep)
-        fr.write("# [数据月报--2019-11月](README_11.md)")
-        fr.write(os.linesep)
-        fr.write("# [数据月报--2019-10月](README_10.md)")
-        fr.write(os.linesep)
-        fr.write("# [数据月报--2019-9月](README_9.md)")
-        fr.write(os.linesep)
-        fr.write("# [数据月报--2019-8月](README_8.md)")
-        fr.write(os.linesep)
-        fr.write("# [数据月报--2019-7月](README_7.md)")
-        fr.write(os.linesep)
-        fr.write("# [数据月报--2019-6月](README_6.md)")
-        fr.write(os.linesep)
-        fr.write("# [数据月报--2019-5月](README_5.md)")
-        fr.write(os.linesep)
-        fr.write("# [数据月报--2019-4月](README_4.md)")
-        fr.write(os.linesep)
-        fr.write("# [数据月报--2019-3月](README_3.md)")
-        fr.write(os.linesep)
-        fr.write("# [数据年报--2019-3月之前](README_YEAR.md)")
-        fr.write(os.linesep)
-        fr.write('# %s 信息源与信息类型占比' % year)
-        fr.write(os.linesep)
-        fr.write('![{year}-信息源占比-secwiki](data/img/domain/{year}-信息源占比-secwiki.png)'.
-                 format(year=year))
-        fr.write(os.linesep)
-        fr.write(os.linesep)
-        fr.write('![{year}-信息源占比-xuanwu](data/img/domain/{year}-信息源占比-xuanwu.png)'.
-                 format(year=year))
-        fr.write(os.linesep)
-        fr.write(os.linesep)
-        # fr.write('![{year}-信息类型占比-secwiki](data/img/tag/{year}-信息类型占比-secwiki.png)'.
-        #        format(year=year))
-        fr.write(os.linesep)
-        fr.write(os.linesep)
-        fr.write('![{year}-信息类型占比-xuanwu](data/img/tag/{year}-信息类型占比-xuanwu.png)'.
-                 format(year=year))
-        fr.write(os.linesep)
-        fr.write(os.linesep)
+    for fpath in [fpath_sp, fpath]:
+        print(fpath)
+        with codecs.open(fpath, mode='wb') as fr:
+            fr.write("# [数据月报--202002](README_202002.md)")
+            fr.write(os.linesep)
+            fr.write("# [数据月报--202001](README_202001.md)")
+            fr.write(os.linesep)
+            fr.write("# [2019数据年报](README_YEAR_2019.md)")
+            fr.write(os.linesep)
+            fr.write("# [数据月报--2019-12月](README_12.md)")
+            fr.write(os.linesep)
+            fr.write("# [数据月报--2019-11月](README_11.md)")
+            fr.write(os.linesep)
+            fr.write("# [数据月报--2019-10月](README_10.md)")
+            fr.write(os.linesep)
+            fr.write("# [数据月报--2019-9月](README_9.md)")
+            fr.write(os.linesep)
+            fr.write("# [数据月报--2019-8月](README_8.md)")
+            fr.write(os.linesep)
+            fr.write("# [数据月报--2019-7月](README_7.md)")
+            fr.write(os.linesep)
+            fr.write("# [数据月报--2019-6月](README_6.md)")
+            fr.write(os.linesep)
+            fr.write("# [数据月报--2019-5月](README_5.md)")
+            fr.write(os.linesep)
+            fr.write("# [数据月报--2019-4月](README_4.md)")
+            fr.write(os.linesep)
+            fr.write("# [数据月报--2019-3月](README_3.md)")
+            fr.write(os.linesep)
+            fr.write("# [数据年报--2019-3月之前](README_YEAR.md)")
+            fr.write(os.linesep)
+            fr.write('# %s 信息源与信息类型占比' % year)
+            fr.write(os.linesep)
+            fr.write('![{year}-信息源占比-secwiki](data/img/domain/{year}-信息源占比-secwiki.png)'.
+                     format(year=year))
+            fr.write(os.linesep)
+            fr.write(os.linesep)
+            fr.write('![{year}-信息源占比-xuanwu](data/img/domain/{year}-信息源占比-xuanwu.png)'.
+                     format(year=year))
+            fr.write(os.linesep)
+            fr.write(os.linesep)
+            # fr.write('![{year}-信息类型占比-secwiki](data/img/tag/{year}-信息类型占比-secwiki.png)'.
+            #        format(year=year))
+            fr.write(os.linesep)
+            fr.write(os.linesep)
+            fr.write('![{year}-信息类型占比-xuanwu](data/img/tag/{year}-信息类型占比-xuanwu.png)'.
+                     format(year=year))
+            fr.write(os.linesep)
+            fr.write(os.linesep)
 
-        fr.write('![{year}-最喜欢语言占比](data/img/language/{year}-最喜欢语言占比.png)'.format(year=year))
-        fr.write(os.linesep)
-        fr.write(os.linesep)
+            fr.write('![{year}-最喜欢语言占比](data/img/language/{year}-最喜欢语言占比.png)'.format(year=year))
+            fr.write(os.linesep)
+            fr.write(os.linesep)
 
-        st = os.linesep.join(tables_rets)
-        fr.write(st)
-        fr.write(os.linesep)
-        fr.write(os.linesep)
+            st = os.linesep.join(tables_rets)
+            fr.write(st)
+            fr.write(os.linesep)
+            fr.write(os.linesep)
 
-        fr.write('# 日更新程序')
-        fr.write(os.linesep)
-        fr.write('`python update_daily.py`')
+            fr.write('# 日更新程序')
+            fr.write(os.linesep)
+            fr.write('`python update_daily.py`')
 
 
 if __name__ == "__main__":
