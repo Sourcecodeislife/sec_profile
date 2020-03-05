@@ -14,7 +14,11 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 青衣十三楼飞花堂 |  | burp pro 2020.2 | https://mp.weixin.qq.com/s/WXdEvc0p04KjyOlmb4qtRg | 1| 
+| 小议安全 | xiaoyianquan | 零信任架构远程办公实战 | https://mp.weixin.qq.com/s/Kgm0wuPeQHX7fJoUondz4Q | 1| 
+| 永安在线反欺诈 | YongAnOnline | 业务安全蓝军测评标准白皮书 | https://mp.weixin.qq.com/s/23fcilR_XhrGLWSaKv21zA | 1| 
 | 大潘点点 | dapandiandian | 网安产业结构和动力分析——从合规型向能力型 | https://mp.weixin.qq.com/s/V6P-6X_fnw_kvHWMxtqwLg | 1| 
+| 物联网IOT安全 | IOTsafety | Cobalt Strike｜从入门到入狱 | https://mp.weixin.qq.com/s/WAqgHn0DrXerEeow131w4Q | 1| 
 | 字节跳动技术团队 | toutiaotechblog | 字节跳动自研万亿级图数据库 & 图计算实践 | https://mp.weixin.qq.com/s/uYP8Eyz36JyTWska0hvtuA | 1| 
 | 安恒信息安全研究院 |  | 入侵分析钻石模型学习笔记 | https://mp.weixin.qq.com/s/akb1SLiXj8ts3-RxiXks2w | 1| 
 | 奇安信安全服务 |  | 红队实战攻防技术分享：Linux后门总结-各类隐藏技能 | https://mp.weixin.qq.com/s/B5cam9QN8eDHFuaFjBD34Q | 1| 
@@ -51,7 +55,7 @@
 | 网信中国 | cacweixin | 国家互联网信息办公室关于《网络安全威胁信息发布管理办法（征求意见稿）》公开征求意见的通知 | https://mp.weixin.qq.com/s/uu3fnM8OzC8JRcIiJkIX8w | 1| 
 | 最高人民法院 | ch_zgrmfy | 司法大数据专题报告：网络犯罪特点和趋势 | https://mp.weixin.qq.com/s/ZxYS6Dwa2XVOZ8ku-PbKog | 1| 
 | 404 Not F0und |  | 从Black Hat Speaker到国内外研究者：强化学习的安全应用 | https://mp.weixin.qq.com/s/YcH2P38_N4aZtGAc2ktkJw | 1| 
-| heysec | bloodzer007 | 计算机与网络安全系列书单推荐 | https://mp.weixin.qq.com/s/kEH85B2L8hsTKQjaSluTVQ | 11| 
+| heysec | bloodzer007 | 计算机与网络安全系列书单推荐 | https://mp.weixin.qq.com/s/kEH85B2L8hsTKQjaSluTVQ | 12| 
 | 复旦白泽战队 | fdwhitzard | 白泽带你去参会@CCS19, London, UK丨论文分享（上） | https://mp.weixin.qq.com/s/gYqamT3WXiyj79mjBQYRiA | 2| 
 | 法学学术前沿 | frontiers-of-law | 前沿| 刘艳红：网络爬虫行为的刑事规制 | https://mp.weixin.qq.com/s/O9ue3cZjw5kfVFyFkoaeUg | 1| 
 | 南方法治报 | nffzb1433 | 广东公安“净网2019”专项行动典型网络违法犯罪案例 | https://mp.weixin.qq.com/s/XIAaaZetvfLa5KO-7Q6rlg | 1| 
@@ -146,7 +150,7 @@
 | DI数据智能 |  |  | https://mp.weixin.qq.com/s/z6Gfdp6ly0WdKjbrvhCACw | 1| 
 | 阿里机器智能 |  |  | https://mp.weixin.qq.com/s/kv-ZrOF4nnxXoQwFOodzjA | 1| 
 | Alfred数据室 | Alfred_Lab |  | https://mp.weixin.qq.com/s/j1kgf2RR7jssbWa7uWC-uA | 1| 
-| Ms08067安全实验室 | Ms08067_com |  | https://mp.weixin.qq.com/s/xGYfxdp_TQmXiuWvC1sN-g | 19| 
+| Ms08067安全实验室 | Ms08067_com |  | https://mp.weixin.qq.com/s/xGYfxdp_TQmXiuWvC1sN-g | 20| 
 | 安在 | AnZer_SH | 新锐 | 盛华安张颖：左手SIEM右手服装设计的美女博士 | https://mp.weixin.qq.com/s/LOrxA4EUB9xecvelTeBQKg | 52| 
 | 数据安全与取证 | Cflab_net |  | https://mp.weixin.qq.com/s/ES83wSU-WBrUONGjCN6jYw | 1| 
 | 网安一起行_上海网警 | shanghaiwangjing |  | https://mp.weixin.qq.com/s/gAS2cFaWMUdY0s6sT6ZtHw | 1| 
@@ -582,7 +586,7 @@
 | 一丁闲思路 | yd-think |  | http://mp.weixin.qq.com/s?__biz=MzAxMjAwMjUxNQ==&mid=207881605&idx=1&sn=2fce890233828adaa90364e3c8633f4a&scene=1 | 1| 
 | Trustdata大数据 | TrustData |  | http://mp.weixin.qq.com/s?__biz=MzA4Nzc3MzA4OA==&mid=207253300&idx=1&sn=c3549aa82d3250261c60cf6b27c2429c | 1| 
 | 北美工程师求职顾问 | office-hour |  | http://mp.weixin.qq.com/s?__biz=MzA4MjQwNTExMA==&mid=205386787&idx=1&sn=04788f1dc8352ca32948460bd6e3fe31 | 1| 
-| 安天 | Antiylab |  | http://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&amp;mid=207025811&amp;idx=1&amp;sn=76130bdd0d6273af23f234e13faa160f#rd | 14| 
+| 安天 | Antiylab |  | http://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&amp;mid=207025811&amp;idx=1&amp;sn=76130bdd0d6273af23f234e13faa160f#rd | 15| 
 | SAINTSEC | SAINTSEC |  | http://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=208021695&idx=2&sn=9c6f579e7e819f797cfc023359698c51#rd | 1| 
 | 张三丰的疯言疯语 | zsfnotes |  | http://mp.weixin.qq.com/s?__biz=MzA3MTUwMzI5Nw==&mid=213825938&idx=1&sn=2a5ec95e8a12a5e7e6971ae76965a2cc&scene=1&from=groupmessage&isappinstalled=0#rd | 5| 
 | 绿盟科技 | NSFOCUS-weixin |  | http://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=205178018&idx=1&sn=cea04c7ac59e47c8615d46957771ddc3#rd | 6| 
@@ -1934,7 +1938,7 @@
 | jvilk | BrowserFS : In-browser filesystem that emulates Node JS fs API & supports storing/retrieving files from var backend: | https://github.com/jvilk/BrowserFS | https://github.com/stripe | Software Engineer @stripe PhD graduate from UMass Amherst and former member of @plasma-umass | United States | University of Massachusetts | 72 | 0 | 29 | 142 | 8 | TypeScript,JavaScript | 0 | 0 | 1| 
 | threedr3am | Java安全相关的漏洞和技术demo | https://github.com/threedr3am/learnjavabug | https://threedr3am.github.io |  | None | None | 30 | 0 | 159 | 142 | 27 | Java | 514 | 102 | 1| 
 | D35m0nd142 | LFISuite - 本地文件包含漏洞的自动化扫描、攻击工具: | https://github.com/D35m0nd142/LFISuite | https://twitter.com/d35m0nd142 | Grey Hat Hacker and programmer. I love computer security, with particular interest to web vulns. Creator of automatized hacking tools and scripts. | None | None | 5 | 0 | 0 | 141 | 0 | Python,C++ | 663 | 209 | 1| 
-| alphaSeclab | Awesome Forensics Resources - 安全取证分析相关的工具和资料收集 | https://github.com/alphaSeclab/awesome-forensics | None |  | None | None | 11 | 0 | 23 | 141 | 0 |  | 1300 | 185 | 1| 
+| alphaSeclab | Awesome Forensics Resources - 安全取证分析相关的工具和资料收集 | https://github.com/alphaSeclab/awesome-forensics | None |  | None | None | 11 | 0 | 23 | 141 | 0 |  | 1300 | 185 | 2| 
 | corna | Intel 第四代 CPU HasWell 新引入的 Intel Boot Guard 保护特性的防护机制与自身的安全性研究。Intel-Boot-Guard 用于确保 BIOS 启动过程中的安全性。来自研究员 Alex Matrosov,今年夏天他在 BlackHat 也演讲了一个相关的议题《Betraying the BIOS: Where the Guardians of the BIOS are Failing》: https://github.com/corna/me_cleaner/wiki/Intel-Boot-Guard https://medium.com/@matrosov/bypass-intel-boot-guard-cc05edfca3a9 | https://github.com/corna/me_cleaner/wiki/Intel-Boot-Guard | None |  | Bergamo, Italy | None | 25 | 0 | 14 | 141 | 1 | Python,C++ | 0 | 0 | 1| 
 | thewhiteh4t | seeker - 获取高精度地理信息和设备信息的工具: | https://github.com/thewhiteh4t/seeker | https://www.linkedin.com/in/lohityapushkar | The Best Offense is a Great Defense... | New Delhi | None | 8 | 0 | 11 | 141 | 2 | Python,C++ | 0 | 0 | 2| 
 | wetw0rk | Sickle - shellcode 辅助开发工具: | https://github.com/wetw0rk/Sickle | None | hax0r boi | None | None | 7 | 0 | 76 | 141 | 41 | Python,Assembly,Java | 404 | 68 | 1| 
@@ -2443,6 +2447,7 @@
 | cornerpirate | 一个在内存中下载,编译和执行 Java 文件的 POC : | https://github.com/cornerpirate/java-stager | https://www.twitter.com/cornerpirate | A penetration tester with a focus on collecting data, manipulating that, and generating kick ass reports. | None | Xcina Consulting | 19 | 0 | 15 | 62 | 18 | Python,Batchfile | 0 | 0 | 1| 
 | gellin | TeamViewer_Permissions_Hook_V1 - 通过向 TeamViewer 注入 DLL 并改写内存的方式实现对特殊功能限制的破解,譬如特殊菜单的启用: https://github.com/gellin/TeamViewer_Permissions_Hook_V1TeamViewer 紧急推出了补丁,已修复这个问题: | https://github.com/gellin/TeamViewer_Permissions_Hook_V1TeamViewer | None | Integration Engineer, red/blue team hacker, avid AWS user | Denver, CO | None | 4 | 0 | 29 | 62 | 12 | C#,JavaScript,C++ | 248 | 71 | 1| 
 | heisecode | Upload some Android/Mac/iOS POCs, not well written but can take a look https://github.com/heisecode/Bug_POCs | https://github.com/heisecode/Bug_POCs | None |  | None | None | 2 | 0 | 1 | 62 | 0 |  | 1 | 0 | 1| 
+| zsdlove | 基于虚拟执行及污点跟踪的 Android 白盒审计系统 | https://github.com/zsdlove/Hades | None |  | None | None | 126 | 0 | 193 | 62 | 16 | Python,Java,Smali | 163 | 41 | 1| 
 | ALEXZZZ9 | 索尼 PS4 5.01 WebKit Exploit PoC: | https://github.com/ALEXZZZ9/PS4-5.01-WebKit-Exploit-PoC | https://ax9.me/ |  | None | None | 4 | 0 | 542 | 61 | 11 | C#,JavaScript | 0 | 0 | 1| 
 | Charliedean | Winpayloads : Undetectable Windows Payload Generation : | https://github.com/Charliedean/Winpayloads | None |  | England | None | 13 | 0 | 6 | 61 | 1 | Python,C#,Shell,PowerShell | 47 | 16 | 1| 
 | mtivadar | Qiew - Hex/File format viewer. Designed to be useful for reverse engineering malware. Based on pefile, Capstone | https://github.com/mtivadar/qiew | https://twitter.com/tivadarmmt |  | Romania | None | 5 | 0 | 53 | 61 | 6 | Python,TeX,Verilog | 581 | 144 | 2| 
@@ -3546,7 +3551,7 @@
 | ganliuzhuo | 作者在Sebug提交的漏洞详情和POC | https://github.com/ganliuzhuo/Sebug | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | gasgas4 | APT_CyberCriminal_Campagin | https://github.com/gasgas4/APT_CyberCriminal_Campagin | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | github | Github Security Lab 关于 CodeQL 的分享《Bug hunting with CodeQL》 | https://github.com/github/security-lab/blob/master/Meetup/2019-11/presentations/Bug%20hunting%20with%20CodeQL.pdf | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Python,JavaScript,C++,Haskell,CoffeeScript,HTML,Shell,Go,Ruby,C# | 23100 | 3500 | 2| 
-| google | Google 开源了一个实现差分隐私算法的 C++ 库 | https://github.com/google/differential-privacy/tree/master/differential_privacy | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Java,Python,JavaScript,C++,Dart,HTML,Go | 0 | 0 | 2| 
+| google | Google 开源了一个实现差分隐私算法的 C++ 库 | https://github.com/google/differential-privacy/tree/master/differential_privacy | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Java,Python,JavaScript,C++,Dart,HTML,Go | 0 | 0 | 3| 
 | googleprojectzero | j00ru 开源了一个 Linux 版本的 DLL Loader，用于加载 Windows FontSub.dll | https://github.com/googleprojectzero/BrokenType/tree/master/fontsub-dll-on-linux | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,C#,C++,Python,HTML,Swift | 0 | 0 | 2| 
 | goretk | GoRE - 用于分析 Go 二进制文件的工具库 | https://github.com/goretk/gore | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Go,Shell,HTML | 0 | 0 | 1| 
 | guardicore | labs_campaigns 攻击团队IOC信息 | https://github.com/guardicore/labs_campaigns | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,C++,CoffeeScript,C# | 0 | 0 | 1| 
@@ -3592,7 +3597,7 @@
 | maxlabelle | WebMalwareScanner - A simple malware scanner | https://github.com/maxlabelle/WebMalwareScanner | None |  | None | None | 6 | 0 | 0 | 0 | 0 | Python,MQL4,JavaScript,PHP | 7 | 5 | 1| 
 | mertam | Check out Trishula - a spampot with a built-in machine learning phishing classifier | https://github.com/mertam/shiva | None |  | None | None | 5 | 0 | 3 | 0 | 0 | Python,PHP,Java | 10 | 3 | 1| 
 | micle-fm | Parat - Python 实现的远程控制工具: | https://github.com/micle-fm/Parat | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
-| microsoft | 微软开源了 MSVC 的 C++ 标准库 STL | https://github.com/microsoft/STL | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Jupyter,C#,JavaScript,SQLPL,C++,Python,HTML,Go,PHP,Dockerfile,PowerShell | 83100 | 12000 | 3| 
+| microsoft | 微软开源了 MSVC 的 C++ 标准库 STL | https://github.com/microsoft/STL | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Jupyter,C#,JavaScript,SQLPL,C++,Python,HTML,Go,PHP,Dockerfile,PowerShell | 83100 | 12000 | 4| 
 | minisllc | Domain Hunter - 域名信誉对于攻击者从事钓鱼和 C&C 很重要,所以攻击者开始尝试注册一些过期的历史信誉良好的域名,用于躲避检测。Domain Hunter 这个工具用于识别这类域名: | https://github.com/minisllc/domainhunter | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | missDronio | MySQL盲注检测脚本 | https://github.com/missDronio/blindy | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | mromnia | FB Event Map API | https://github.com/mromnia/fb_event_map | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
@@ -3611,6 +3616,7 @@
 | pentesteracademy | patoolkit: a collection of traffic analysis plugins focused on security | https://github.com/pentesteracademy/patoolkit | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Lua,C,JavaScript,C++ | 0 | 0 | 1| 
 | pentestgeek | phishing-frenzy - Ruby on Rails 编写的钓鱼框架: | https://github.com/pentestgeek/phishing-frenzy | None | None | None | None | 0 | 0 | 0 | 0 | 0 | PHP,Ruby | 0 | 0 | 1| 
 | pleed | PyQemu - dynamic binary instrumentation based crypto detection framework. | https://github.com/pleed/pyqemu | None |  | None | None | 1 | 0 | 0 | 0 | 0 | C | 18 | 9 | 1| 
+| pyppeteer | pyppeteer2 - 用于控制 Headless Chrome 的 puppeteer 的 Python 移植版 | https://github.com/pyppeteer/pyppeteer2 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | python-security | pyt - 用于检测 Python Web 应用安全漏洞的静态扫描工具: | https://github.com/python-security/pyt | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | quiet | TCP over sound on Android : | https://github.com/quiet/org.quietmodem.Quiet | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Shell,CMake,Python,JavaScript,Objective-C,HTML,Rust | 0 | 0 | 1| 
 | rackerlabs | scantron - 分布式 Nmap/Masscan 网络扫描框架 | https://github.com/rackerlabs/scantron | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Groovy,TypeScript,Java,Python,JavaScript,Shell,HTML,HCL,Ruby,CSS | 0 | 0 | 1| 
@@ -3825,6 +3831,7 @@
 # zhihu_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| 谈谈蜜罐（调研）与内网安全 | https://zhuanlan.zhihu.com/p/110886405| 
 | 信息安全风险评估与FAIR模型学习笔记 | https://zhuanlan.zhihu.com/p/108995767| 
 | 多知识图谱的融合算法探索 | https://zhuanlan.zhihu.com/p/105203565| 
 | 2020 后区块链世界及安全的一些思考 | https://zhuanlan.zhihu.com/p/102384263| 

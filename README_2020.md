@@ -14,12 +14,17 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 青衣十三楼飞花堂 |  | burp pro 2020.2 | https://mp.weixin.qq.com/s/WXdEvc0p04KjyOlmb4qtRg | 1| 
+| 安天 | Antiylab | 安天对“超高能力网空威胁行为体”系列分析回顾 | https://mp.weixin.qq.com/s/N0LxStDpc6GyzpyszYnguQ | 1| 
+| 小议安全 | xiaoyianquan | 零信任架构远程办公实战 | https://mp.weixin.qq.com/s/Kgm0wuPeQHX7fJoUondz4Q | 1| 
+| 永安在线反欺诈 | YongAnOnline | 业务安全蓝军测评标准白皮书 | https://mp.weixin.qq.com/s/23fcilR_XhrGLWSaKv21zA | 1| 
 | 大潘点点 | dapandiandian | 网安产业结构和动力分析——从合规型向能力型 | https://mp.weixin.qq.com/s/V6P-6X_fnw_kvHWMxtqwLg | 1| 
+| 物联网IOT安全 | IOTsafety | Cobalt Strike｜从入门到入狱 | https://mp.weixin.qq.com/s/WAqgHn0DrXerEeow131w4Q | 1| 
 | Bypass | Bypass-- | 常见的Web源码泄漏漏洞及其利用 | https://mp.weixin.qq.com/s/2sjGHIiLICxHl91xIqdXfg | 1| 
-| 道法术 |  | 利用CodeQL寻找Java Deserialization Vulnerabilities | https://mp.weixin.qq.com/s/wlDWTxXHjbZJqmzLCM-z_w | 1| 
 | 七夜安全博客 | qiye_safe | linux无文件执行— fexecve 揭秘 | https://mp.weixin.qq.com/s/Hywbb1ZnRo6n4gFFp5rbcQ | 2| 
 | 字节跳动技术团队 | toutiaotechblog | 字节跳动自研万亿级图数据库 & 图计算实践 | https://mp.weixin.qq.com/s/uYP8Eyz36JyTWska0hvtuA | 1| 
 | 安恒信息安全研究院 |  | 入侵分析钻石模型学习笔记 | https://mp.weixin.qq.com/s/akb1SLiXj8ts3-RxiXks2w | 1| 
+| 道法术 |  | 利用CodeQL寻找Java Deserialization Vulnerabilities | https://mp.weixin.qq.com/s/wlDWTxXHjbZJqmzLCM-z_w | 1| 
 | 奇安信安全服务 |  | 红队实战攻防技术分享：Linux后门总结-各类隐藏技能 | https://mp.weixin.qq.com/s/B5cam9QN8eDHFuaFjBD34Q | 1| 
 | DJ的札记 | DJ_notes | 创新沙盒，罕见领域分布的背后 - RSAC 2020 (1) | https://mp.weixin.qq.com/s/ExGnLLzd1wBDksGFfimULw | 1| 
 | 悬剑武器库 |  | WebShell免杀之JSP | https://mp.weixin.qq.com/s/YJtfQTvowVr2azqBWGla1Q | 1| 
@@ -43,12 +48,12 @@
 | 贝塔安全实验室 | BetaSecLab | 某大学渗透测试实战靶场报告-Part2 | https://mp.weixin.qq.com/s/L9LsSwRWDuZedAZQjz0YvA | 2| 
 | 我的安全视界观 | CANI_Security | 【SDL最初实践】安全测试 | https://mp.weixin.qq.com/s/WO089RBiLuaHMzQ4yTMnUg | 4| 
 | 电科防务 | CETC-ETDR | 世界网络战领域2019年发展回顾与2020年展望 | https://mp.weixin.qq.com/s/Mx3H2Za7hI9ZZIaZedmXBQ | 1| 
-| Ms08067安全实验室 | Ms08067_com | 内网漫游之SOCKS代理大结局 | https://mp.weixin.qq.com/s/uKLjW-6Y39wAvLn7bENb7A | 18| 
+| Ms08067安全实验室 | Ms08067_com | 内网漫游之SOCKS代理大结局 | https://mp.weixin.qq.com/s/uKLjW-6Y39wAvLn7bENb7A | 19| 
 | FreeBuf | freebuf | Go语言代码安全审计分享 | https://mp.weixin.qq.com/s/8Ju05hYCYk6bOgkvjtP11A | 1| 
 | 虎符智库 |  | 情报内生：高级威胁检测的必要条件 | https://mp.weixin.qq.com/s/U3XKIh0ffdzuCJihnJL7Lw | 1| 
 | ADLab | v_adlab | ThinkPHP6任意文件操作漏洞分析 | https://mp.weixin.qq.com/s/UPu6cE20l24T6fkYOlSUJw | 1| 
 | 数世咨询 |  | 数世咨询：中国网络安全能力图谱（2020年1月） | https://mp.weixin.qq.com/s/Qwhr6SlzFDqHB2b6Q6awdw | 1| 
-| heysec | bloodzer007 | 日志分析系列(外传三):平台安全性 | https://mp.weixin.qq.com/s/T2ejCKe8G1E8Ims1AKoi7Q | 4| 
+| heysec | bloodzer007 | 日志分析系列(外传三):平台安全性 | https://mp.weixin.qq.com/s/T2ejCKe8G1E8Ims1AKoi7Q | 5| 
 | 平凡路上 |  | 科恩面试与实习感想 | https://mp.weixin.qq.com/s/GiIIUZbzq2IOp5-arkUCfg | 1| 
 | 编程技术宇宙 | ProgramUniverse | DDoS攻击：无限战争 | https://mp.weixin.qq.com/s/JTr1-5nPtseAYXfvJdamVg | 3| 
 | 鱼塘领路人 | KingofSaltedFish | 威胁情报系列（一）：什么是威胁情报 | https://mp.weixin.qq.com/s/f9G818SGijdfS13KjLnFoA | 1| 
@@ -96,6 +101,7 @@
 | tanjiti | 2019安全技术资讯年报 | https://github.com/tanjiti/sec_profile/blob/master/README_YEAR_2019.md | http://tanjiti.com/ | #Network Security Monitor #threat intelligence  #waf #ids #iOS App Security #Android App Security #game security | shanghai | baidu | 17 | 0 | 6 | 552 | 171 | Python,PHP,HTML,Perl | 385 | 174 | 1| 
 | TheKingOfDuck | ApkAnalyser: 一键提取安卓应用中可能存在的敏感信息 | https://github.com/TheKingOfDuck/ApkAnalyser | https://blog.gzsec.org/ | 一个废物 | V1g6VGhlS2luZ09mR2FHYUdh | None | 36 | 0 | 190 | 515 | 26 | Shell,Python,JavaScript,HTML,Go,PowerShell | 1600 | 653 | 1| 
 | blackorbird | 伊朗 APT 组织攻击活动 DUSTMAN 的分析报告 | https://github.com/blackorbird/APT_REPORT/blob/master/International%20Strategic/Iran/Saudi-Arabia-CNA-report.pdf | http://blackorbird.com | APT hunter threat analyst | https://twitter.com/blackorbird | https://twitter.com/blackorbird | 51 | 0 | 112 | 352 | 36 | Python,C,C++ | 702 | 239 | 1| 
+| alphaSeclab | DBI（Dynamic Binary Instrumentation：动态二进制插桩）逆向有关的资源收集 | https://github.com/alphaSeclab/DBI-Stuff | None |  | None | None | 17 | 0 | 38 | 288 | 0 |  | 1600 | 264 | 1| 
 | HyperSine | QQ安全中心 - 动态口令的生成算法 | https://github.com/HyperSine/forensic-qqtoken | None |  | None | None | 19 | 0 | 1 | 228 | 0 | Python,C,C++ | 251 | 97 | 1| 
 | hahwul | Powerfull XSS Scanning and Parameter analysis tool | https://github.com/hahwul/XSpear | https://www.hahwul.com | Security engineer, Rubyist, Gopher and... H4cker | Republic of Korea | None | 47 | 0 | 64 | 222 | 10 | Python,Go,Ruby | 396 | 115 | 1| 
 | sailay1996 | AMD User Experience Program Launcher 本地提权漏洞分析(CVE-2020-8950) | https://github.com/sailay1996/amd_eop_poc | https://heynowyouseeme.blogspot.com/ | Twitter: @404death , https://www.hackthebox.eu/profile/1467 | Myanmar | None | 177 | 0 | 4 | 197 | 0 | Python,C,Shell,Batchfile | 432 | 69 | 1| 
@@ -111,6 +117,7 @@
 | JavierOlmedo | Joplin markdown 笔记软件被发现 XSS 任意文件读漏洞（CVE-2020-9038） | https://github.com/JavierOlmedo/CVE-2020-9038// | https://hackpuntes.com | 👨‍💻 Security Researcher & Ethical Hacker | Toledo, Spain | None | 117 | 0 | 753 | 86 | 230 | Python,JavaScript,Visual,HTML,Go,CSS | 186 | 38 | 1| 
 | StrangerealIntel | DailyIOC: IOC from articles, tweets for archives | https://github.com/StrangerealIntel/DailyIOC | None |  | None | None | 2 | 0 | 2 | 83 | 0 | YARA,JavaScript | 280 | 44 | 1| 
 | BatchDrake | SigDigger - 基于 QT 编写的数字信号分析工具 | https://github.com/BatchDrake/SigDigger | http://actinid.org | I code for fun. Interested in reverse engineering, astronomy, microkernel design, radio and digital signal processing. EA1IYR | Madrid, Spain | None | 25 | 0 | 5 | 81 | 4 | C,CSS,C++ | 95 | 13 | 1| 
+| zsdlove | 基于虚拟执行及污点跟踪的 Android 白盒审计系统 | https://github.com/zsdlove/Hades | None |  | None | None | 126 | 0 | 193 | 62 | 16 | Python,Java,Smali | 163 | 41 | 1| 
 | SoftwareGift | CVPR2019 面部识别欺骗检测比赛的代码 | https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019 | None | I am a graduate student at Huazhong University of Science and Technology, focusing on mobile network design and face anti-spoofing. | None | None | 64 | 0 | 738 | 60 | 12 | Python,C++ | 563 | 194 | 1| 
 | insanitybit | grapl: Graph platform for Detection and Response | https://github.com/insanitybit/grapl | http://insanitybit.com |  | New York | None | 69 | 0 | 27 | 60 | 0 | Rust | 275 | 21 | 1| 
 | mai-lang-chai | CMS、中间件漏洞检测利用合集 | https://github.com/mai-lang-chai/Middleware-Vulnerability-detection | https://mai-lang-chai.github.io | 🗝 under Control😎 | None | None | 19 | 0 | 15 | 57 | 8 | Python | 93 | 32 | 1| 
@@ -133,6 +140,9 @@
 | bobfuzzer | Linux kernel 5.0.0-rc7 f2fs 文件系统溢出漏洞 PoC | https://github.com/bobfuzzer/CVE/tree/master/CVE-2019-19927 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C | 21 | 13 | 1| 
 | codeplutos | MySQL客户端jdbc反序列化漏洞payload | https://github.com/codeplutos/MySQL-JDBC-Deserialization-Payload | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Java,C++ | 107 | 20 | 1| 
 | github | Github Security Lab 关于 CodeQL 的分享《Bug hunting with CodeQL》 | https://github.com/github/security-lab/blob/master/Meetup/2019-11/presentations/Bug%20hunting%20with%20CodeQL.pdf | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Python,JavaScript,C++,Haskell,CoffeeScript,HTML,Shell,Go,Ruby,C# | 23100 | 3500 | 2| 
+| google | FuzzBench - Fuzzer benchmarking as a service | https://github.com/google/FuzzBench | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Shell,Java,Python,Kotlin,JavaScript,C++,TypeScript,HTML,Go,Rust | 0 | 0 | 1| 
+| microsoft | 微软开源的支持 Checked C 版本的 clang 编译器 | https://github.com/microsoft/checkedc-clang | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Java,C#,JavaScript,C++,Python,Go,CMake,TSQL,PowerShell,HCL | 0 | 0 | 1| 
+| pyppeteer | pyppeteer2 - 用于控制 Headless Chrome 的 puppeteer 的 Python 移植版 | https://github.com/pyppeteer/pyppeteer2 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | rapid7 | hackazon: A modern vulnerable web app | https://github.com/rapid7/hackazon | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,Java,Python,TSQL,JavaScript,C#,Puppet,Ruby | 0 | 0 | 1| 
 | ztosec | Hunter 中通DevSecOps闭环方案 | https://github.com/ztosec/hunter | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Go,Java | 0 | 0 | 1| 
 
@@ -169,6 +179,7 @@
 # zhihu_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| 谈谈蜜罐（调研）与内网安全 | https://zhuanlan.zhihu.com/p/110886405| 
 | 信息安全风险评估与FAIR模型学习笔记 | https://zhuanlan.zhihu.com/p/108995767| 
 | 多知识图谱的融合算法探索 | https://zhuanlan.zhihu.com/p/105203565| 
 | 2020 后区块链世界及安全的一些思考 | https://zhuanlan.zhihu.com/p/102384263| 
