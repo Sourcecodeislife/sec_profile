@@ -14,6 +14,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 哈工大SCIR | HIT_SCIR | 赛尔笔记 | 机器阅读理解简述 | https://mp.weixin.qq.com/s/Rm1uFunX9IRQaL_rUAZxfQ | 1| 
+| 工业菜园 | gycy-2019 | 菜农观点 | 陆宝华：关于智慧城市安全的讨论 | https://mp.weixin.qq.com/s/1-xpgttndYIXGkyspTIp1w | 1| 
+| Tide安全团队 | TideSec | 记一次曲折而又有趣的渗透 | https://mp.weixin.qq.com/s/7atT56fBa-3iCmCZ1BH-bw | 9| 
 | 青衣十三楼飞花堂 |  | burp pro 2020.2 | https://mp.weixin.qq.com/s/WXdEvc0p04KjyOlmb4qtRg | 1| 
 | 小议安全 | xiaoyianquan | 零信任架构远程办公实战 | https://mp.weixin.qq.com/s/Kgm0wuPeQHX7fJoUondz4Q | 1| 
 | 永安在线反欺诈 | YongAnOnline | 业务安全蓝军测评标准白皮书 | https://mp.weixin.qq.com/s/23fcilR_XhrGLWSaKv21zA | 1| 
@@ -180,7 +183,7 @@
 | 网络安全舆情研究 |  |  | https://mp.weixin.qq.com/s/iOq84kVblAW5a2mK2GDJwA | 1| 
 | 觅渡揽月 |  |  | https://mp.weixin.qq.com/s/GWOjp1E2B4J0efUjFBnp8Q | 1| 
 | 柯力士信息安全 | JW-assoc | 以色列神秘8200“军工厂”和它孵化的37家安全公司（上篇） | https://mp.weixin.qq.com/s/F6kmHw1x9GELXN7bgTOIHw | 1| 
-| 湛卢工作室 | xuehao_studio |  | https://mp.weixin.qq.com/s/LxIgWu8pmNArFU1gOUMWJw | 5| 
+| 湛卢工作室 | xuehao_studio |  | https://mp.weixin.qq.com/s/LxIgWu8pmNArFU1gOUMWJw | 6| 
 | 点融安全应急响应中心 | dsrc_dianrong |  | https://mp.weixin.qq.com/s/4saEV6fWimqfII2_7PUQ8Q | 1| 
 | 网藤风险感知 |  |  | https://mp.weixin.qq.com/s/3luD0uRGYINm3f56df9UYQ | 2| 
 | 31QU | blockchain31 |  | https://mp.weixin.qq.com/s/I2gatFhkEs1GpGPHC97PnQ | 1| 
@@ -252,7 +255,7 @@
 | 数据分析 | ecshujufenxi |  | https://mp.weixin.qq.com/s/cHinmVC5o9DApFcI5odxNQ | 1| 
 | 漏洞战争 | vulwar |  | https://mp.weixin.qq.com/s/6SqdcbyABfBxSaNfDlFKog | 9| 
 | 点融黑帮 | DianrongMafia |  | https://mp.weixin.qq.com/s/h-DGDGpvxXaMgLLtQlvajw | 1| 
-| 银河安全实验室 | Galaxy-Lab |  | https://mp.weixin.qq.com/s?__biz=MzIwNTcxNTczMQ==&mid=2247483838&idx=1&sn=e7147aadaf020a2d4960e2056b1ea6ef | 5| 
+| 银河安全实验室 | Galaxy-Lab |  | https://mp.weixin.qq.com/s?__biz=MzIwNTcxNTczMQ==&mid=2247483838&idx=1&sn=e7147aadaf020a2d4960e2056b1ea6ef | 6| 
 | EMLab攻防实验室 | EM-Lab |  | https://mp.weixin.qq.com/s/-NxWRMbCV_wLNssBwFkb4A | 1| 
 | 仙人掌情报站 | sec-cactus |  | https://mp.weixin.qq.com/s/8RtSjpRlC_AdM354XeluLw | 6| 
 | 史蒂夫智库 | English_Steven |  | https://mp.weixin.qq.com/s/hKz9HNmt49av5I0teKIFHg | 1| 
@@ -372,13 +375,13 @@
 | 浅黑科技 | qianheikeji |  | https://mp.weixin.qq.com/s/UTgvKvXLZry79NPEvVzDbA | 11| 
 | 网络安全社区悦信安 | yuexin_an |  | https://mp.weixin.qq.com/s/cakTgWlE-wQk10QGbg7E6Q | 1| 
 | 视觉求索 | thevisionseeker |  | https://mp.weixin.qq.com/s/-wSYLu-XvOrsST8_KEUa-Q | 1| 
-| 云众可信 | yunzhongkexin |  | https://mp.weixin.qq.com/s/m4kMZjHZUM6AaXp1VK2txw | 9| 
+| 云众可信 | yunzhongkexin |  | https://mp.weixin.qq.com/s/m4kMZjHZUM6AaXp1VK2txw | 10| 
 | 中国保密协会科学技术分会 |  |  | https://mp.weixin.qq.com/s/8JeIRebbLJnIzQqJ7HVmAA | 4| 
 | 公安三所网络安全法律研究中心 |  |  | http://mp.weixin.qq.com/s/ouDszZXtibPqGWubgawjZQ | 3| 
 | 大数据与法制研究中心 |  |  | https://mp.weixin.qq.com/s/D2CxcifjuwvXixh_P2Z3pw | 1| 
 | 安全张之家 | zhang_informationSEC |  | https://mp.weixin.qq.com/s/Kivzuq9EkHZKa0gNFcokSQ | 2| 
 | 未然安全实验室 | WeiRanLabs |  | https://mp.weixin.qq.com/s/uBqz9UVcwlWQtpxlX1J2Gw | 1| 
-| 爱奇艺技术产品团队 | iQIYI-TP |  | https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg | 1| 
+| 爱奇艺技术产品团队 | iQIYI-TP |  | https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg | 2| 
 | 电塔 | DiantaFM |  | https://mp.weixin.qq.com/s/FupWpgckJIzUKD0Edi1Dgw | 1| 
 | 百姓网技术团队 |  |  | http://mp.weixin.qq.com/s/RgyPq9BA3XHJ8cW1CQD71Q | 1| 
 | Ant说安全 |  |  | https://mp.weixin.qq.com/s/bi49FZyRRgJON8t5bf-A3A | 1| 
@@ -2071,6 +2074,7 @@
 | mschwager | Fierce - A Python rewrite of the classic DNS reconnaissance tool. | https://github.com/mschwager/fierce?platform=hootsuite | None |  | None | None | 36 | 0 | 248 | 111 | 48 | Python,Go | 811 | 101 | 3| 
 | plajjan | Run virtual routers with docker | https://github.com/plajjan/vrnetlab | https://github.com/SpriteLink | Network Automation Ninja at Deutsche Telekom / TeraStream. | Stockholm, Sweden | Deutsche Telekom / Terastream, @SpriteLink | 73 | 0 | 186 | 111 | 17 | Python | 416 | 89 | 1| 
 | t3ntman | Advanced Social Engineering for Red Teams. | https://github.com/t3ntman/Conference-Talks/blob/master/Advanced%20Social%20Engineering%20for%20Red%20Teams.pdf | None |  | None | None | 4 | 0 | 14 | 111 | 26 | C#,Python | 216 | 57 | 2| 
+| ChanChiChoi | 人脸识别相关的 Papers 收集 - Awesome Face Recognition | https://github.com/ChanChiChoi/awesome-Face_Recognition | http://www.cnblogs.com/shouhuxianjian/ |  | China | None | 21 | 0 | 184 | 110 | 51 | Python,Jupyter | 1800 | 495 | 1| 
 | Wenzel | r2vmi - 一款 Hypervisor 级的调试器 : | https://github.com/Wenzel/r2vmi | None | Security Researcher | VMI hypervisor-level debugger | Paris, France | None | 83 | 0 | 178 | 110 | 75 | Python,Ruby | 0 | 0 | 1| 
 | blankwall | Python_Pin:Python bindings for pin | https://github.com/blankwall/Python_Pin | None |  | None | None | 13 | 0 | 12 | 110 | 0 | Python,C,Assembly,C++ | 308 | 34 | 4| 
 | cisp | AccessLogAnylast: 支持Nginx、Apache、Tomcat等标准WEB日志的分析 | https://github.com/cisp/AccessLogAnylast | http://www.cnblogs.com/KevinGeorge/ | Information Security Engineer in a Number Security Company！ SCU Graduates！ | 四川成都 | None | 21 | 0 | 0 | 110 | 114 | Python | 0 | 0 | 1| 
@@ -3006,6 +3010,7 @@
 | ekse | Just pushed my Rust bindings for @ unicorn_engine on crates.io : https://crates.io/crates/unicorn | https://github.com/ekse/unicorn-rs | None |  | None | None | 53 | 0 | 8 | 21 | 1 | C,CMake,Vim,HTML,PHP,Rust | 77 | 17 | 1| 
 | felicitychou | MalAnalyzer: 基于docker虚拟化的恶意代码沙箱 | https://github.com/felicitychou/MalAnalyzer | None | Secruity | China, Shenzhen | None | 39 | 0 | 479 | 21 | 72 | Python,Perl | 0 | 0 | 1| 
 | flothrone | 用于防护 RootKits,确保启动链安全的 Intel 项目 - Boot Guard: https://github.com/flothrone/bootguard | https://github.com/flothrone/bootguard | None |  | None | None | 1 | 0 | 2 | 21 | 0 |  | 95 | 21 | 1| 
+| ody5sey | Voyager: 安全工具集合平台 | https://github.com/ody5sey/Voyager | None |  | None | None | 3 | 0 | 1 | 21 | 0 | Python,HTML | 147 | 61 | 1| 
 | ptonewreckin | Blind-XXE: A basis for a Blind-Based XXE Exploitation Framework | https://github.com/ptonewreckin/Blind-XXE | None |  | None | None | 5 | 0 | 95 | 21 | 51 | Python,Go | 22 | 12 | 1| 
 | smeso | 利用三星 USB MTP(媒体传输协议)任意读写三星手机存储设备 Exploit,同时可以 Bypass 锁屏和只充电模式(SVE-2017-10086): | https://github.com/smeso/MTPwn | https://smeso.it |  | None | None | 10 | 0 | 8 | 21 | 0 | Python,C | 0 | 0 | 1| 
 | thomasjball | PyExZ3 - symbolic execution engine for Python, now using the Z3 theorem prover https://github.com/thomasjball/PyExZ3/ Paper | https://github.com/thomasjball/PyExZ3/ | http://research.microsoft.com/~tball/ |  | None | None | 4 | 0 | 2 | 21 | 1 | Python,Go,HTML,C++ | 200 | 44 | 1| 
@@ -3196,6 +3201,7 @@
 | m-dwyer | Packer templates for creating a basic malware analysis lab | https://github.com/m-dwyer/packer-malware | None |  | Newcastle, Australia | None | 9 | 0 | 8 | 12 | 5 | HTML,Shell,PowerShell | 52 | 72 | 1| 
 | mharjac | bad_ducky - Rubber Ducky 的克隆项目,用于在 CJMCU BadUsb 开发板上实现 BadUSB 攻击,支持 Rubber Ducky 脚本: | https://github.com/mharjac/bad_ducky | None |  | None | None | 9 | 0 | 44 | 12 | 0 | Python,Shell,C++ | 131 | 37 | 1| 
 | redaelli | imago-forensics - Python 实现的图像数字取证工具 | https://github.com/redaelli/imago-forensics | None | I’m a cyber security enthusiast. blog: https://www.forensics-matters.com/ twitter: @solventred | None | None | 1 | 0 | 9 | 12 | 16 | Python | 66 | 12 | 1| 
+| renzu0 | nw-tips: Win内网_域控安全 | https://github.com/renzu0/nw-tips | None |  | None | None | 31 | 0 | 2 | 12 | 2 | Python,TypeScript | 3 | 2 | 1| 
 | sgxrop | SGX-ROP - 使用 Intel SGX 的 Enclave 恶意软件,paper: https://arxiv.org/abs/1902.03256 PoC: | https://github.com/sgxrop/sgxrop | None |  | None | None | 0 | 0 | 0 | 12 | 0 |  | 0 | 0 | 1| 
 | troybowman | iOS Instruments Server 通信协议分析: | https://github.com/troybowman/dtxmsg/blob/master/slides.pdf | None |  | None | None | 8 | 0 | 2 | 12 | 1 | C,Assembly,C++ | 43 | 4 | 1| 
 | yinzhixin | scanner: 网站漏洞扫描平台 | https://github.com/yinzhixin/scanner | None |  | None | None | 7 | 0 | 129 | 12 | 2 | Python,JavaScript | 0 | 0 | 1| 
@@ -3243,6 +3249,7 @@
 | JuxhinDB | OOB-Server: A Bind9 server for pentesters to use for Out-of-Band vulnerabilities | https://github.com/JuxhinDB/OOB-Server | https://github.com/JuxhinDB | Twitter: @JuxhinDB | Malta | None | 12 | 0 | 58 | 9 | 4 | Python,Shell,Java,Rust | 0 | 0 | 1| 
 | W00t3k | Awesome-Cellular-Hacking | https://github.com/W00t3k/Awesome-Cellular-Hacking | None | Wireless eap peap lootbooty | None | Lootb00ty Inc. | 601 | 0 | 85 | 9 | 3 | Python,C,HTML | 71 | 8 | 1| 
 | WinHeapExplorer | WinHeap-Explorer - 检测 Windows 应用基于堆的错误的 POC 项目: | https://github.com/WinHeapExplorer/WinHeap-Explorer | None |  | None | None | 2 | 0 | 2 | 9 | 0 | Python,C++ | 118 | 18 | 1| 
+| aforensics | HiddenVM — Use any desktop OS without leaving a trace. | https://github.com/aforensics/HiddenVM | None |  | None | None | 1 | 0 | 0 | 9 | 0 | Shell | 836 | 31 | 1| 
 | ajohnston9 | ciscorouter:Tool for scanning Cisco router products over SSH | https://github.com/ajohnston9/ciscorouter | None |  | None | None | 19 | 0 | 39 | 9 | 4 | C,Java,PowerShell,Perl | 54 | 7 | 1| 
 | alexvanmaele | ics-checklist: Industrial Security Checklist | https://github.com/alexvanmaele/ics-checklist | http://atlesque.com | Art and Open-Source aficionado Creative portfolio @ http://atlesque.com | Belgium | Alexander Atlesque | 20 | 0 | 0 | 9 | 5 | JavaScript,PHP,PLpgSQL | 8 | 4 | 1| 
 | amolnaik4 | Bodhi - 专注于学习利用客户端 Web 漏洞的虚拟环境: | https://github.com/amolnaik4/bodhi | https://twitter.com/amolnaik4 |  | None | None | 1 | 0 | 0 | 9 | 0 | HTML | 75 | 19 | 1| 
@@ -3341,6 +3348,7 @@
 | thomasbiege | 研究员 Thomas Biege 分享的一些关于安全编码的 PPT: | https://github.com/thomasbiege/slides/tree/master/Secure%20Programming | None | Cyber security research and management since the late 90s. | None | None | 3 | 0 | 0 | 5 | 0 | PostScript,C,HTML | 8 | 0 | 1| 
 | xufanghui | docker的安装及相关使用和说明文档 | https://github.com/xufanghui/docker-ua | None |  | None | None | 53 | 0 | 282 | 5 | 8 | PHP,Java,JavaScript | 21 | 9 | 1| 
 | zsenliao | shellMonitor: Linux 下基于 Bash 的文件和数据库监控及备份工具，微信报警 | https://github.com/zsenliao/shellMonitor | None |  | None | None | 4 | 0 | 89 | 5 | 0 | Shell,JavaScript | 72 | 23 | 1| 
+| Equationliu | ImageNet 图像分类对抗攻击 No.3 solution | https://github.com/Equationliu/Attack-ImageNet | None |  | None | None | 9 | 0 | 19 | 4 | 1 | Python | 2 | 1 | 1| 
 | Hack-Hut | Automatic remote/local file inclusion vulnerablity analysis and exploit tool | https://github.com/Hack-Hut/CrabStick | http://www.hackhut.co.uk |  | None | None | 17 | 0 | 8 | 4 | 0 | Python,C | 0 | 0 | 1| 
 | ac-mercury | mercuryiss-kali:Kali Linux Docker 容器: | https://github.com/ac-mercury/mercuryiss-kali | None |  | None | None | 3 | 0 | 0 | 4 | 0 | Shell,HTML | 36 | 2 | 1| 
 | attakercyebr | DVR 摄像头漏洞攻击脚本（CVE-2018-2019） | https://github.com/attakercyebr/hack4lx_CVE-2018-2019 | https://t.me/hack4lx | The black hat hacker team leader just came out for destruction M4nifest0 Cyber security team™ | Romania | @os20ir | 18 | 0 | 21 | 4 | 17 | Python,Visual,Shell | 6 | 3 | 1| 
@@ -3597,7 +3605,7 @@
 | maxlabelle | WebMalwareScanner - A simple malware scanner | https://github.com/maxlabelle/WebMalwareScanner | None |  | None | None | 6 | 0 | 0 | 0 | 0 | Python,MQL4,JavaScript,PHP | 7 | 5 | 1| 
 | mertam | Check out Trishula - a spampot with a built-in machine learning phishing classifier | https://github.com/mertam/shiva | None |  | None | None | 5 | 0 | 3 | 0 | 0 | Python,PHP,Java | 10 | 3 | 1| 
 | micle-fm | Parat - Python 实现的远程控制工具: | https://github.com/micle-fm/Parat | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
-| microsoft | 微软开源了 MSVC 的 C++ 标准库 STL | https://github.com/microsoft/STL | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Jupyter,C#,JavaScript,SQLPL,C++,Python,HTML,Go,PHP,Dockerfile,PowerShell | 83100 | 12000 | 4| 
+| microsoft | 微软开源了 MSVC 的 C++ 标准库 STL | https://github.com/microsoft/STL | None | None | None | None | 0 | 0 | 0 | 0 | 0 | TypeScript,Jupyter,C#,JavaScript,SQLPL,C++,Python,HTML,Go,PHP,Dockerfile,PowerShell | 83100 | 12000 | 5| 
 | minisllc | Domain Hunter - 域名信誉对于攻击者从事钓鱼和 C&C 很重要,所以攻击者开始尝试注册一些过期的历史信誉良好的域名,用于躲避检测。Domain Hunter 这个工具用于识别这类域名: | https://github.com/minisllc/domainhunter | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | missDronio | MySQL盲注检测脚本 | https://github.com/missDronio/blindy | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | mromnia | FB Event Map API | https://github.com/mromnia/fb_event_map | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
