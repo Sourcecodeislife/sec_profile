@@ -16,7 +16,7 @@
 | --- | --- | --- | ---| 
 | 哈工大SCIR | HIT_SCIR | 赛尔笔记 | 机器阅读理解简述 | https://mp.weixin.qq.com/s/Rm1uFunX9IRQaL_rUAZxfQ | 1| 
 | 工业菜园 | gycy-2019 | 菜农观点 | 陆宝华：关于智慧城市安全的讨论 | https://mp.weixin.qq.com/s/1-xpgttndYIXGkyspTIp1w | 1| 
-| Tide安全团队 | TideSec | 记一次曲折而又有趣的渗透 | https://mp.weixin.qq.com/s/7atT56fBa-3iCmCZ1BH-bw | 9| 
+| Tide安全团队 | TideSec | 远控免杀专题(30)-Python加载shellcode免杀-8种方式(VT免杀率10-69) | https://mp.weixin.qq.com/s/HyBSqrF_kl2ARaCYAMefgA | 11| 
 | 青衣十三楼飞花堂 |  | burp pro 2020.2 | https://mp.weixin.qq.com/s/WXdEvc0p04KjyOlmb4qtRg | 1| 
 | 小议安全 | xiaoyianquan | 零信任架构远程办公实战 | https://mp.weixin.qq.com/s/Kgm0wuPeQHX7fJoUondz4Q | 1| 
 | 永安在线反欺诈 | YongAnOnline | 业务安全蓝军测评标准白皮书 | https://mp.weixin.qq.com/s/23fcilR_XhrGLWSaKv21zA | 1| 
@@ -153,7 +153,7 @@
 | DI数据智能 |  |  | https://mp.weixin.qq.com/s/z6Gfdp6ly0WdKjbrvhCACw | 1| 
 | 阿里机器智能 |  |  | https://mp.weixin.qq.com/s/kv-ZrOF4nnxXoQwFOodzjA | 1| 
 | Alfred数据室 | Alfred_Lab |  | https://mp.weixin.qq.com/s/j1kgf2RR7jssbWa7uWC-uA | 1| 
-| Ms08067安全实验室 | Ms08067_com |  | https://mp.weixin.qq.com/s/xGYfxdp_TQmXiuWvC1sN-g | 20| 
+| Ms08067安全实验室 | Ms08067_com |  | https://mp.weixin.qq.com/s/xGYfxdp_TQmXiuWvC1sN-g | 21| 
 | 安在 | AnZer_SH | 新锐 | 盛华安张颖：左手SIEM右手服装设计的美女博士 | https://mp.weixin.qq.com/s/LOrxA4EUB9xecvelTeBQKg | 52| 
 | 数据安全与取证 | Cflab_net |  | https://mp.weixin.qq.com/s/ES83wSU-WBrUONGjCN6jYw | 1| 
 | 网安一起行_上海网警 | shanghaiwangjing |  | https://mp.weixin.qq.com/s/gAS2cFaWMUdY0s6sT6ZtHw | 1| 
@@ -390,14 +390,14 @@
 | 百度安全实验室 | BaiduX_lab |  | https://mp.weixin.qq.com/s/8MSpAorxrTCH_l1y2Q_qOw | 8| 
 | 萝卜安全 | carrotsafe |  | https://mp.weixin.qq.com/s/bE_smPTR8yzB1ksvrcXEXw | 1| 
 | 逢人斗智斗勇 | xiaopigfly |  | https://mp.weixin.qq.com/s/IZn_xnO2tyUWmx9dronYUQ | 2| 
-| PaperWeekly | paperweekly |  | https://mp.weixin.qq.com/s/cL1aKdu8ig8-ocOPirXk2w | 10| 
+| PaperWeekly | paperweekly |  | https://mp.weixin.qq.com/s/cL1aKdu8ig8-ocOPirXk2w | 11| 
 | 工控安全应急保障中心 |  |  | https://mp.weixin.qq.com/s/jdqB8I6T33x3LlKpUXljJw | 2| 
 | 编码美丽 | jiangwei0910410003 |  | https://mp.weixin.qq.com/s/xSe2Zrv9Ev4qRaN99YmnRA | 1| 
 | 美团技术团队 | meituantech |  | https://mp.weixin.qq.com/s/-wAr-tWqvS2NLfwxKcnEQQ | 7| 
 | Viola后花园 | Viola_deepblue |  | https://mp.weixin.qq.com/s/zJubeSuXRZRUBhulaRvHYg | 8| 
 | 二向箔安全 | twosecurity |  | https://mp.weixin.qq.com/s/JTZfaG6iG2XAmiCeBiKxwA | 1| 
 | WiFi安全应急响应中心 | WiFiSRC |  | https://mp.weixin.qq.com/s?__biz=MzI1NTY2MTkwNw==&mid=2247483798&idx=1&sn=8992a94f41f91945f201ebcd48a104c5&scene=0#wechat_redirect | 1| 
-| 奇安信威胁情报中心 |  |  | https://mp.weixin.qq.com/s/5RYOMEyOa5kR-yQ9So07sA | 39| 
+| 奇安信威胁情报中心 |  |  | https://mp.weixin.qq.com/s/5RYOMEyOa5kR-yQ9So07sA | 40| 
 | 安全测评联盟 |  |  | https://mp.weixin.qq.com/s?__biz=MzI2NTA4MDE5NQ==&mid=2651622427&idx=1&sn=8dd1d69ffa8a8ae9de43c79c564aae91&scene=0#wechat_redirect | 3| 
 | 网安视界 | wangansj |  | https://mp.weixin.qq.com/s?__biz=MzI4MTM5NDMwOQ==&mid=2247487942&idx=1&sn=178e424144cdcf6cfd1ba99776d059eb&scene=0#wechat_redirect | 3| 
 | 网络安全技能竞赛 | isgchina |  | https://mp.weixin.qq.com/s?__biz=MjM5NjkyMTk5Mg==&mid=2650597864&idx=1&sn=60a58436e65283ce404eb837404c31a1&scene=0#wechat_redirect | 1| 
@@ -2535,6 +2535,7 @@
 | its-a-feature | Apfell - macOS 后渗透测试工具: | https://github.com/its-a-feature/Apfell | None |  | None | None | 88 | 0 | 6 | 54 | 0 | JavaScript | 0 | 0 | 1| 
 | l0ss | Grouper - 用于寻找活动目录组策略漏洞的 PowerShell 脚本: | https://github.com/l0ss/Grouper | None |  | None | None | 36 | 0 | 2 | 54 | 0 | C# | 0 | 0 | 1| 
 | maxking | linux-vulnerabilities-10-years - 一篇对 Linux 十年来的内核漏洞,缓解措施以及开放问题的研究论文 : | https://github.com/maxking/linux-vulnerabilities-10-years | https://asynchronous.in | I also have code over at https://gitlab.com/maxking | None | None | 109 | 0 | 170 | 54 | 26 | Python,TeX,Dockerfile,SaltStack | 0 | 0 | 1| 
+| mike-goodwin | owasp-threat-dragon-desktop: 威胁建模工具 | https://github.com/mike-goodwin/owasp-threat-dragon-desktop | https://github.com/OWASP |  | UK | @OWASP | 24 | 0 | 1 | 54 | 1 | Shell,JavaScript,HTML,CSS | 398 | 88 | 1| 
 | nvdv | vprof : Visual Python profiler : https://github.com/nvdv/vprof | https://github.com/nvdv/vprof | None |  | None | None | 8 | 0 | 3 | 54 | 0 | Python | 0 | 0 | 1| 
 | pornin | CTTK - 常量执行时间代码片段收集,这些代码用来参考编写可以防御侧信道攻击的加解密代码: | https://github.com/pornin/CTTK | None |  | None | None | 5 | 0 | 0 | 54 | 0 | C#,C | 0 | 0 | 1| 
 | samhaxr | hackbox - 优秀渗透测试技术与工具的整合: | https://github.com/samhaxr/hackbox | https://www.sulemanmalik.com |  | United Kingdom | None | 159 | 0 | 4 | 54 | 19 | Python,Shell,JavaScript | 0 | 0 | 1| 
@@ -3565,6 +3566,7 @@
 | guardicore | labs_campaigns 攻击团队IOC信息 | https://github.com/guardicore/labs_campaigns | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,C++,CoffeeScript,C# | 0 | 0 | 1| 
 | guillotines | WebShell: Web端WebShell管理器 | https://github.com/guillotines/WebShell | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | guitarman0831 | Onyx:A simple Linux keylogger | https://github.com/guitarman0831/Onyx | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| hardenedlinux | srcinv: source code audit tool 代码审计工具 | https://github.com/hardenedlinux/srcinv | None | None | None | None | 0 | 0 | 0 | 0 | 0 | HTML,C,Shell,Assembly,Roff,C++,Nix,Zeek,Go | 243 | 56 | 1| 
 | hashcat | hashcat and oclHashcat have gone open source | https://github.com/hashcat/ | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C | 0 | 0 | 1| 
 | hduisa | 2015 hctf7 all problems | https://github.com/hduisa/hctf2015-all-problems | None | None | None | None | 0 | 0 | 0 | 0 | 0 |  | 0 | 0 | 2| 
 | helios-decompiler | Helios - All-in-one Java reverse engineering tool | https://github.com/helios-decompiler/Helios | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,Java | 0 | 0 | 1| 
