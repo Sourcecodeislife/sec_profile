@@ -10,11 +10,11 @@ C	3
 Jupyter	2
 CMake	2
 C#	2
-Rust	1
+HCL	1
 TSQL	1
 Assembly	1
 Nix	1
-HCL	1
+Rust	1
 Swift	1
 Zeek	1
 Kotlin	1
