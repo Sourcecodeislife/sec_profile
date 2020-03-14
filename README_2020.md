@@ -14,10 +14,12 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| PeckShield | PeckShield | 硬核：解密美国司法部起诉中国OTC承兑商洗钱案件 | https://mp.weixin.qq.com/s/wWrm3gwT72Pc8Nxw-1OiSw | 1| 
+| 星阑科技 | StarCrossCN | PHP 开源白盒审计工具初探（下） | https://mp.weixin.qq.com/s/6Y7anVvO9C5_nqdJihuFMw | 2| 
 | PaperWeekly | paperweekly | 文本分类和序列标注“深度”实践 | https://mp.weixin.qq.com/s/afO58DDDZGb5w_EEG8oW6Q | 1| 
 | 哈工大SCIR | HIT_SCIR | 赛尔笔记 | 机器阅读理解简述 | https://mp.weixin.qq.com/s/Rm1uFunX9IRQaL_rUAZxfQ | 1| 
 | 工业菜园 | gycy-2019 | 菜农观点 | 陆宝华：关于智慧城市安全的讨论 | https://mp.weixin.qq.com/s/1-xpgttndYIXGkyspTIp1w | 1| 
-| 爱奇艺技术产品团队 | iQIYI-TP | 爱奇艺在日志实时数据监控的探索与实践 | https://mp.weixin.qq.com/s/wal_BVdp8yunXXPFpUy-gw | 1| 
+| 爱奇艺技术产品团队 | iQIYI-TP | 爱奇艺在日志实时数据监控的探索与实践 | https://mp.weixin.qq.com/s/wal_BVdp8yunXXPFpUy-gw | 2| 
 | 云众可信 | yunzhongkexin | 原创干货 | Java代码审计之跨站脚本攻击 | https://mp.weixin.qq.com/s/lQNixguOJahjM-AXvPoHqQ | 1| 
 | 银河安全实验室 | Galaxy-Lab | 尝试利用Cython将Python项目转化为单个.so | https://mp.weixin.qq.com/s/YRKY7FgLFw-w4QIlrNd-FA | 1| 
 | Tide安全团队 | TideSec | 远控免杀专题(30)-Python加载shellcode免杀-8种方式(VT免杀率10-69) | https://mp.weixin.qq.com/s/HyBSqrF_kl2ARaCYAMefgA | 11| 
@@ -31,7 +33,7 @@
 | 七夜安全博客 | qiye_safe | linux无文件执行— fexecve 揭秘 | https://mp.weixin.qq.com/s/Hywbb1ZnRo6n4gFFp5rbcQ | 2| 
 | 字节跳动技术团队 | toutiaotechblog | 字节跳动自研万亿级图数据库 & 图计算实践 | https://mp.weixin.qq.com/s/uYP8Eyz36JyTWska0hvtuA | 1| 
 | 安恒信息安全研究院 |  | 入侵分析钻石模型学习笔记 | https://mp.weixin.qq.com/s/akb1SLiXj8ts3-RxiXks2w | 1| 
-| 道法术 |  | 利用CodeQL寻找Java Deserialization Vulnerabilities | https://mp.weixin.qq.com/s/wlDWTxXHjbZJqmzLCM-z_w | 1| 
+| 道法术 |  | 利用CodeQL寻找Java Deserialization Vulnerabilities | https://mp.weixin.qq.com/s/wlDWTxXHjbZJqmzLCM-z_w | 2| 
 | 奇安信安全服务 |  | 红队实战攻防技术分享：Linux后门总结-各类隐藏技能 | https://mp.weixin.qq.com/s/B5cam9QN8eDHFuaFjBD34Q | 1| 
 | DJ的札记 | DJ_notes | 创新沙盒，罕见领域分布的背后 - RSAC 2020 (1) | https://mp.weixin.qq.com/s/ExGnLLzd1wBDksGFfimULw | 1| 
 | 悬剑武器库 |  | WebShell免杀之JSP | https://mp.weixin.qq.com/s/YJtfQTvowVr2azqBWGla1Q | 1| 
@@ -55,7 +57,7 @@
 | 贝塔安全实验室 | BetaSecLab | 某大学渗透测试实战靶场报告-Part2 | https://mp.weixin.qq.com/s/L9LsSwRWDuZedAZQjz0YvA | 2| 
 | 我的安全视界观 | CANI_Security | 【SDL最初实践】安全测试 | https://mp.weixin.qq.com/s/WO089RBiLuaHMzQ4yTMnUg | 4| 
 | 电科防务 | CETC-ETDR | 世界网络战领域2019年发展回顾与2020年展望 | https://mp.weixin.qq.com/s/Mx3H2Za7hI9ZZIaZedmXBQ | 1| 
-| Ms08067安全实验室 | Ms08067_com | 内网漫游之SOCKS代理大结局 | https://mp.weixin.qq.com/s/uKLjW-6Y39wAvLn7bENb7A | 20| 
+| Ms08067安全实验室 | Ms08067_com | 内网漫游之SOCKS代理大结局 | https://mp.weixin.qq.com/s/uKLjW-6Y39wAvLn7bENb7A | 22| 
 | FreeBuf | freebuf | Go语言代码安全审计分享 | https://mp.weixin.qq.com/s/8Ju05hYCYk6bOgkvjtP11A | 1| 
 | 虎符智库 |  | 情报内生：高级威胁检测的必要条件 | https://mp.weixin.qq.com/s/U3XKIh0ffdzuCJihnJL7Lw | 1| 
 | ADLab | v_adlab | ThinkPHP6任意文件操作漏洞分析 | https://mp.weixin.qq.com/s/UPu6cE20l24T6fkYOlSUJw | 1| 
@@ -73,7 +75,7 @@
 | 安全引擎 | SecEngine | Java动态类加载，当FastJson遇上内网 | https://mp.weixin.qq.com/s/ou3L-IU1CNr9EGkpjH2u0w | 1| 
 | 新一代信息科技战略研究中心 | casitclic | DARPA发布战略框架文件《保障国家安全的突破性技术和新能力》 | https://mp.weixin.qq.com/s/D23I3qEpMs8eOFKy8w2RJg | 1| 
 | 时间之外沉浮事 | tasnrh | 商业网络培训靶场的发展态势综述 | https://mp.weixin.qq.com/s/Cjd7CCR0kZESP2GHX1oOvQ | 4| 
-| 水滴安全实验室 | EversecLab | 2019僵尸网络DDoS攻击监测总结 | https://mp.weixin.qq.com/s/FGt-y3KxGPRP-FT2ubDOZA | 2| 
+| 水滴安全实验室 | EversecLab | 2019僵尸网络DDoS攻击监测总结 | https://mp.weixin.qq.com/s/FGt-y3KxGPRP-FT2ubDOZA | 3| 
 | 看雪学院 | ikanxue | CVE-2017-11882理论以及实战样本分析 | https://mp.weixin.qq.com/s/d3owzqQFhHNVoPFIyxWZsQ | 2| 
 | 绿盟科技 | NSFOCUS-weixin | 基于ATT&CK+SOAR的运营实践 | https://mp.weixin.qq.com/s/Z1sAbpSYZXYBO5qpgvjXlQ | 1| 
 | 腾讯安全应急响应中心 | tsrc_team | 物联网安全系列之远程破解Google Home | https://mp.weixin.qq.com/s/4kO3pU_tCDZmgj2CkROzMg | 2| 
@@ -107,6 +109,7 @@
 | 0x09AL | A native backdoor module for Microsoft IIS | https://github.com/0x09AL/IIS-Raid | https://twitter.com/0x09AL |  | None | MDSec | 126 | 0 | 150 | 552 | 26 | Go,C#,Ruby,C++ | 679 | 149 | 1| 
 | tanjiti | 2019安全技术资讯年报 | https://github.com/tanjiti/sec_profile/blob/master/README_YEAR_2019.md | http://tanjiti.com/ | #Network Security Monitor #threat intelligence  #waf #ids #iOS App Security #Android App Security #game security | shanghai | baidu | 17 | 0 | 6 | 552 | 171 | Python,PHP,HTML,Perl | 385 | 174 | 1| 
 | TheKingOfDuck | ApkAnalyser: 一键提取安卓应用中可能存在的敏感信息 | https://github.com/TheKingOfDuck/ApkAnalyser | https://blog.gzsec.org/ | 一个废物 | V1g6VGhlS2luZ09mR2FHYUdh | None | 36 | 0 | 190 | 515 | 26 | Shell,Python,JavaScript,HTML,Go,PowerShell | 1600 | 653 | 1| 
+| unamer | 之前被用于 WizardOpium APT 攻击行动的 CVE-2019-1458 Windows LPE 漏洞的 Exploit | https://github.com/unamer/CVE-2019-1458 | http://127.0.0.1/phpMyAdmin | <script>alert(Hello world)</script> | C:\Windows\ | None | 39 | 0 | 35 | 499 | 4 | Python,C,C++ | 748 | 359 | 1| 
 | blackorbird | 伊朗 APT 组织攻击活动 DUSTMAN 的分析报告 | https://github.com/blackorbird/APT_REPORT/blob/master/International%20Strategic/Iran/Saudi-Arabia-CNA-report.pdf | http://blackorbird.com | APT hunter threat analyst | https://twitter.com/blackorbird | https://twitter.com/blackorbird | 51 | 0 | 112 | 352 | 36 | Python,C,C++ | 702 | 239 | 1| 
 | alphaSeclab | DBI（Dynamic Binary Instrumentation：动态二进制插桩）逆向有关的资源收集 | https://github.com/alphaSeclab/DBI-Stuff | None |  | None | None | 17 | 0 | 38 | 288 | 0 |  | 1600 | 264 | 1| 
 | HyperSine | QQ安全中心 - 动态口令的生成算法 | https://github.com/HyperSine/forensic-qqtoken | None |  | None | None | 19 | 0 | 1 | 228 | 0 | Python,C,C++ | 251 | 97 | 1| 
@@ -164,6 +167,7 @@
 # medium_xuanwu 推荐
 | title | url| 
 | --- | ---| 
+| php博客平台Typecho代码执行漏洞详细分析 | http://medium.com/@knownsec404team/analysis-of-typecho-front-end-getshell-vulnerability-4c1ce43eaeaa| 
 | AWS Document Signing Security Control Bypass | http://link.medium.com/4XnhSyUqo4| 
 | iOS 越狱和应用渗透必备工具 | http://medium.com/@ved_wayal/jailbreak-and-stuff-kickstart-tools-and-techniques-for-ios-application-pentesting-6fa53a3987ab| 
 | 详解 DeFi 协议 bZx 两次被黑始末 | http://link.medium.com/uOqzbT63c4| 

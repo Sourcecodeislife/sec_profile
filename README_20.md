@@ -14,6 +14,8 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| PeckShield | PeckShield | 硬核：解密美国司法部起诉中国OTC承兑商洗钱案件 | https://mp.weixin.qq.com/s/wWrm3gwT72Pc8Nxw-1OiSw | 1| 
+| 星阑科技 | StarCrossCN | PHP 开源白盒审计工具初探（下） | https://mp.weixin.qq.com/s/6Y7anVvO9C5_nqdJihuFMw | 2| 
 | 哈工大SCIR | HIT_SCIR | 赛尔笔记 | 机器阅读理解简述 | https://mp.weixin.qq.com/s/Rm1uFunX9IRQaL_rUAZxfQ | 1| 
 | 工业菜园 | gycy-2019 | 菜农观点 | 陆宝华：关于智慧城市安全的讨论 | https://mp.weixin.qq.com/s/1-xpgttndYIXGkyspTIp1w | 1| 
 | Tide安全团队 | TideSec | 远控免杀专题(30)-Python加载shellcode免杀-8种方式(VT免杀率10-69) | https://mp.weixin.qq.com/s/HyBSqrF_kl2ARaCYAMefgA | 11| 
@@ -83,7 +85,7 @@
 | 安全乐观主义 |  | 使用方舟编译器检查Fastjson OOM问题 | https://mp.weixin.qq.com/s/ornyzKd3uqjgUHEmdHGIJQ | 13| 
 | 贝塔安全实验室 | BetaSecLab | 网络空间搜索引擎的魅力 | https://mp.weixin.qq.com/s/AdrOhuA0mpjCtdpWjPC1jg | 11| 
 | baronpan |  | 基于 ATT&CK 的 APT 威胁跟踪和狩猎 | https://mp.weixin.qq.com/s/nqQmlWcemAGopy898I4cNg | 2| 
-| 道法术 |  | [法]从SOAR中求解应用安全建设强运营突围之法 | https://mp.weixin.qq.com/s/sedpOhSxEGSdaxX8SACIMA | 2| 
+| 道法术 |  | [法]从SOAR中求解应用安全建设强运营突围之法 | https://mp.weixin.qq.com/s/sedpOhSxEGSdaxX8SACIMA | 3| 
 | 奇安信 CERT |  | WebLogic安全研究报告 | https://mp.weixin.qq.com/s/qxkV_7MZVhUYYq5QGcwCtQ | 2| 
 | 威胁情报小屋 |  | 海莲花攻击手法概述 | https://mp.weixin.qq.com/s/IrM60hbB6dWdbWxpFbO1lA | 1| 
 | 孟极实验室 | mengjiteam | 一条命令实现端口复用后门 | https://mp.weixin.qq.com/s/HDZUsTbffeGhgwu1FOWQNg | 1| 
@@ -153,7 +155,7 @@
 | DI数据智能 |  |  | https://mp.weixin.qq.com/s/z6Gfdp6ly0WdKjbrvhCACw | 1| 
 | 阿里机器智能 |  |  | https://mp.weixin.qq.com/s/kv-ZrOF4nnxXoQwFOodzjA | 1| 
 | Alfred数据室 | Alfred_Lab |  | https://mp.weixin.qq.com/s/j1kgf2RR7jssbWa7uWC-uA | 1| 
-| Ms08067安全实验室 | Ms08067_com |  | https://mp.weixin.qq.com/s/xGYfxdp_TQmXiuWvC1sN-g | 21| 
+| Ms08067安全实验室 | Ms08067_com |  | https://mp.weixin.qq.com/s/xGYfxdp_TQmXiuWvC1sN-g | 23| 
 | 安在 | AnZer_SH | 新锐 | 盛华安张颖：左手SIEM右手服装设计的美女博士 | https://mp.weixin.qq.com/s/LOrxA4EUB9xecvelTeBQKg | 52| 
 | 数据安全与取证 | Cflab_net |  | https://mp.weixin.qq.com/s/ES83wSU-WBrUONGjCN6jYw | 1| 
 | 网安一起行_上海网警 | shanghaiwangjing |  | https://mp.weixin.qq.com/s/gAS2cFaWMUdY0s6sT6ZtHw | 1| 
@@ -324,7 +326,7 @@
 | CSecGroup | cSecGroup |  | https://mp.weixin.qq.com/s?__biz=MzI3NzAzMjEyNg==&mid=2649530469&idx=1&sn=4a2ba687274aec2f44b29660b8567fcd&chksm=f3747db4c403f4a2c1fb3ac7cb869f347bfc74a838266ef55455d7b4495ab0481abef81e660f&scene=0&key=840d183eb8a3dbfa5f3f32cb8d30667e5030e61ccbe28114 | 1| 
 | 娱阅信情 | Prof_WenchangShi |  | https://mp.weixin.qq.com/s/uZFYl3xKT5-aWzvI3mmQ2A | 1| 
 | 数据简化DataSimp | ChiefDataAnalyst |  | https://mp.weixin.qq.com/s/JhylKtarrpvpZlP--ARBRw | 1| 
-| 水滴安全实验室 | EversecLab |  | https://mp.weixin.qq.com/s/SIBGnMc-XIqy2Ohj1ni_fg | 8| 
+| 水滴安全实验室 | EversecLab |  | https://mp.weixin.qq.com/s/SIBGnMc-XIqy2Ohj1ni_fg | 9| 
 | 环球科学 | huanqiukexue |  | https://mp.weixin.qq.com/s/jbJJyWjmW-h7SI0YmYkElg | 1| 
 | 国家互联网应急中心CNCERT | CNCERTCC |  | https://mp.weixin.qq.com/s/aDVIG7_QTaMCHAwgrqnHDA | 4| 
 | 天际友盟情报站 |  |  | https://mp.weixin.qq.com/s/TZj7SFHEkL4q13GFngS0tw | 3| 
@@ -381,7 +383,7 @@
 | 大数据与法制研究中心 |  |  | https://mp.weixin.qq.com/s/D2CxcifjuwvXixh_P2Z3pw | 1| 
 | 安全张之家 | zhang_informationSEC |  | https://mp.weixin.qq.com/s/Kivzuq9EkHZKa0gNFcokSQ | 2| 
 | 未然安全实验室 | WeiRanLabs |  | https://mp.weixin.qq.com/s/uBqz9UVcwlWQtpxlX1J2Gw | 1| 
-| 爱奇艺技术产品团队 | iQIYI-TP |  | https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg | 2| 
+| 爱奇艺技术产品团队 | iQIYI-TP |  | https://mp.weixin.qq.com/s/2gcNY0LmgxpYT1K6uDaWtg | 3| 
 | 电塔 | DiantaFM |  | https://mp.weixin.qq.com/s/FupWpgckJIzUKD0Edi1Dgw | 1| 
 | 百姓网技术团队 |  |  | http://mp.weixin.qq.com/s/RgyPq9BA3XHJ8cW1CQD71Q | 1| 
 | Ant说安全 |  |  | https://mp.weixin.qq.com/s/bi49FZyRRgJON8t5bf-A3A | 1| 
@@ -1425,7 +1427,7 @@
 | kbandla | APTnotes:Various public documents, whitepapers and articles | https://github.com/kbandla/APTnotes | http://twitter.com/kbandla |  | Washington, D.C. | None | 31 | 0 | 63 | 421 | 3 | Python,C | 2300 | 700 | 1| 
 | hwdsl2 | IPsec VPN 服务器一键安装脚本 | https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/README-zh.md | https://github.com/IBM | Hi, Im Lin, a PhD graduate in Electrical and Computer Engineering. As a hobby, I love computers, Linux and programming. | Austin, TX | @IBM | 3 | 0 | 253 | 420 | 22 | Shell | 0 | 0 | 1| 
 | qazbnm456 | awesome-cve-poc:A curated list of CVE PoCs | https://github.com/qazbnm456/awesome-cve-poc | https://github.com/qazbnm456 | See my posts :) https://medium.com/@qazbnm456 | Taiwan | None | 96 | 0 | 1100 | 419 | 20 | Python,JavaScript | 0 | 0 | 2| 
-| unamer | VMware Escape Exploit before VMware WorkStation 12.5.5 | https://github.com/unamer/vmware_escape | https://nonick.me/ | <script>alert(Hello world)</script> | C:\Windows\ | None | 39 | 0 | 27 | 418 | 4 | Python,C,CSS,C++ | 0 | 0 | 1| 
+| unamer | VMware Escape Exploit before VMware WorkStation 12.5.5 | https://github.com/unamer/vmware_escape | https://nonick.me/ | <script>alert(Hello world)</script> | C:\Windows\ | None | 39 | 0 | 27 | 418 | 4 | Python,C,CSS,C++ | 0 | 0 | 2| 
 | greatghoul | 远程工作资料 | https://github.com/greatghoul/remote-working | http://ghoulmind.com | Ask and learn. | Xian | None | 110 | 0 | 437 | 415 | 162 | Python,HTML,Ruby,JavaScript | 4000 | 397 | 1| 
 | mthbernardes | ARTLAS: Apache Real Time Logs Analyzer System | https://github.com/mthbernardes/ARTLAS | https://mthbernardes.github.io |  | Campinas | None | 75 | 0 | 22 | 415 | 45 | Go,Python,C,Shell | 497 | 101 | 5| 
 | Ekultek | whatwaf - 检测并绕过 Web 应用程序防火墙及防护系统: https://t.co/HnELtLJYaD | https://github.com/Ekultek/WhatWaf | None | U3VjY2VzcyBpcyBpbiB0aGUgZXllIG9mIHRoZSBiZWhvbGRlci4= | None | None | 87 | 0 | 121 | 414 | 11 | Python | 0 | 0 | 2| 
@@ -3683,6 +3685,7 @@
 # medium_xuanwu 推荐
 | title | url| 
 | --- | ---| 
+| php博客平台Typecho代码执行漏洞详细分析 | http://medium.com/@knownsec404team/analysis-of-typecho-front-end-getshell-vulnerability-4c1ce43eaeaa| 
 | AWS Document Signing Security Control Bypass | http://link.medium.com/4XnhSyUqo4| 
 | iOS 越狱和应用渗透必备工具 | http://medium.com/@ved_wayal/jailbreak-and-stuff-kickstart-tools-and-techniques-for-ios-application-pentesting-6fa53a3987ab| 
 | 详解 DeFi 协议 bZx 两次被黑始末 | http://link.medium.com/uOqzbT63c4| 
